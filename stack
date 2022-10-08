@@ -43,5 +43,5 @@ int main(){
     st.pop();
     st.pop();
     cout<<st.Top()<<endl;
-    
+    return 0;
 }
